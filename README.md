@@ -1,7 +1,7 @@
-<h1 align="center">Hi there, I'm Junyao Yang 👋</h1>
+<h1 align="center">Hi there, I'm Junyao 👋</h1>
 
 <p align="center">
-  <em>杨竣尧 · MComp in AI @ National University of Singapore · Research Intern @ Tencent Hy Frontier, Singapore</em>
+  <em>杨竣尧 · National University of Singapore · Research Intern @ Tencent Hy Frontier, Singapore</em>
 </p>
 
 <p align="center">
@@ -42,8 +42,13 @@ Before that, I was a Research Intern at **Shanghai AI Lab** and a Research Assis
 
 ### At a Glance
 
-<a href="https://github.com/jyyang26?tab=repositories"><img src="https://img.shields.io/github/stars/jyyang26?style=flat-square&logo=github&label=GitHub%20Stars&color=f5b400" alt="GitHub Stars"></a>
-<a href="https://scholar.google.com/citations?hl=en&user=oY6uhJQAAAAJ"><img src="https://img.shields.io/badge/Citations-93-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar Citations"></a>
+<p align="center">
+  <a href="https://github.com/jyyang26"><img src="https://img.shields.io/badge/GitHub%20Stars-1.4k-f5b400?style=flat-square&logo=github&logoColor=white" alt="Total GitHub Stars"></a>
+  &nbsp;
+  <a href="https://scholar.google.com/citations?hl=en&user=oY6uhJQAAAAJ"><img src="https://img.shields.io/badge/Citations-93-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar Citations"></a>
+</p>
+
+<sub align="center">Stars aggregated across projects I contributed to: <a href="https://github.com/AI45Lab/AgentDoG">AgentDoG</a>, <a href="https://github.com/zli12321/LHTB">LHTB</a>, <a href="https://github.com/ZeroNLP/PrivacyRestore">PrivacyRestore</a>, <a href="https://github.com/ZeroNLP/RCP-Merging">RCP-Merging</a>, <a href="https://github.com/jyyang26/ReasonAny">ReasonAny</a>, <a href="https://github.com/wjw136/RewardDS">RewardDS</a>.</sub>
 
 ---
 
