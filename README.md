@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Junyao Yang 👋</h1>
 
 <p align="center">
-  <em>杨竣尧 · MComp in AI @ National University of Singapore · Research Intern @ Tencent Hy Frontier, Singapore</em>
+  <em>杨竣尧 · National University of Singapore · Research Intern @ Tencent Hy Frontier, Singapore</em>
 </p>
 
 <p align="center">
@@ -23,8 +23,8 @@ Before that, I was a Research Intern at **Shanghai AI Lab** and a Research Assis
 ### Research Interests
 
 - 🤖 **Agentic AI** — long-horizon, self-evolving agents and agent safety
-- 🧠 **Large Language Models** — reasoning, model merging, capability transfer
 - 🎯 **Reinforcement Learning** — training stability, asynchronous RL, reward design
+- 🧠 **Large Language Models** — reasoning, model merging, capability transfer
 - 🔍 **Explainable AI** — internal mechanisms and attribution of model behavior
 
 ### Selected Publications
@@ -36,16 +36,9 @@ Before that, I was a Research Intern at **Shanghai AI Lab** and a Research Assis
 | **ACL 2025** | [PrivacyRestore: Privacy-Preserving Inference in LLMs via Privacy Removal and Restoration](https://arxiv.org/abs/2406.01394) · [code](https://github.com/ZeroNLP/PrivacyRestore) |
 | **EMNLP 2025** | [RewardDS: Privacy-Preserving Fine-Tuning for LLMs via Reward Driven Data Synthesis](https://arxiv.org/abs/2502.18517) · [code](https://github.com/wjw136/RewardDS) |
 | **Tech Report** | [AgentDoG: A Diagnostic Guardrail Framework for AI Agent Safety and Security](https://arxiv.org/abs/2601.18491) · [code](https://github.com/AI45Lab/AgentDoG) |
-| **Preprint** | [Long-Horizon-Terminal-Bench](https://arxiv.org/abs/2607.08964) · [Harness Handbook](https://arxiv.org/abs/2607.13285) · [Entropy-Gradient Inversion](https://arxiv.org/abs/2605.17770) |
+| **Preprint** | [Stale but Stable](https://arxiv.org/abs/2607.18722) · [Long-Horizon-Terminal-Bench](https://arxiv.org/abs/2607.08964) · [RST](https://arxiv.org/pdf/2608.05466) · [Harness Handbook](https://arxiv.org/abs/2607.13285) · [Harness Handbook](https://arxiv.org/abs/2607.13285) |
 
 📄 Full list on my [homepage](https://jyyang26.github.io) · CV: [EN](https://drive.google.com/file/d/1wTeBg7zFGLGaUFitWrxp_FEvvMH-8nw9/view?usp=drive_link) / [中文](https://drive.google.com/file/d/1C2bD366Qj5I_hCi5HpAY-v_Ra-Lp110_/view?usp=drive_link)
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jyyang26&show_icons=true&hide_border=true&count_private=true" alt="Junyao's GitHub stats" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyyang26&layout=compact&hide_border=true" alt="Top languages" height="160">
-</p>
 
 ---
 
