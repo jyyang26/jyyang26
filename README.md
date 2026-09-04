@@ -18,7 +18,7 @@
 
 I am a graduate student at the School of Computing, **National University of Singapore**, specializing in Artificial Intelligence, and currently a Research Intern at **Tencent Hy Frontier Lab, Singapore** (青云计划), where I work on **Agentic RL**, **long-horizon terminus agents**, and **RL stability**.
 
-Before that, I was a Research Intern at **Shanghai AI Lab** and a Research Assistant at [ZeroNLP](https://github.com/ZeroNLP), and I received my B.S. in Computer Science (with honors) from **South China University of Technology**.
+Before that, I was a Research Intern at **Shanghai AI Lab** and a Research Assistant at **ZeroNLP**, and I received my B.S. in Computer Science (with honors) from **South China University of Technology**.
 
 ### Research Interests
 
