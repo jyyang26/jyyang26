@@ -10,6 +10,7 @@
   <a href="mailto:junyaoyang@u.nus.edu"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.linkedin.com/in/junyao-yang-371282301/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://x.com/TonyworldLove"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://github.com/jyyang26"><img src="https://img.shields.io/badge/GitHub%20Stars-1.4k-f5b400?style=flat-square&logo=github&logoColor=white" alt="Total GitHub Stars"></a>
 </p>
 
 ---
@@ -40,15 +41,6 @@ Before that, I was a Research Intern at **Shanghai AI Lab** and a Research Assis
 
 📄 Full list on my [homepage](https://jyyang26.github.io) · CV: [EN](https://drive.google.com/file/d/1wTeBg7zFGLGaUFitWrxp_FEvvMH-8nw9/view?usp=drive_link) / [中文](https://drive.google.com/file/d/1C2bD366Qj5I_hCi5HpAY-v_Ra-Lp110_/view?usp=drive_link)
 
-### At a Glance
-
-<p align="center">
-  <a href="https://github.com/jyyang26"><img src="https://img.shields.io/badge/GitHub%20Stars-1.4k-f5b400?style=flat-square&logo=github&logoColor=white" alt="Total GitHub Stars"></a>
-  &nbsp;
-  <a href="https://scholar.google.com/citations?hl=en&user=oY6uhJQAAAAJ"><img src="https://img.shields.io/badge/Citations-93-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar Citations"></a>
-</p>
-
-<sub align="center">Stars aggregated across projects I contributed to: <a href="https://github.com/AI45Lab/AgentDoG">AgentDoG</a>, <a href="https://github.com/zli12321/LHTB">LHTB</a>, <a href="https://github.com/ZeroNLP/PrivacyRestore">PrivacyRestore</a>, <a href="https://github.com/ZeroNLP/RCP-Merging">RCP-Merging</a>, <a href="https://github.com/jyyang26/ReasonAny">ReasonAny</a>, <a href="https://github.com/wjw136/RewardDS">RewardDS</a>.</sub>
 
 ---
 
