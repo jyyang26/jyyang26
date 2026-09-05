@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Junyao 👋</h1>
+<h1 align="center">Hi there, this is Junyao 👋</h1>
 
 <p align="center">
   <em>杨竣尧 · National University of Singapore · Research Intern @ Tencent Hy Frontier, Singapore</em>
