@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, this is Junyao 👋</h1>
 
-<p align="center">
+<!-- <p align="center">
   <em>杨竣尧 · National University of Singapore · Research Intern @ Tencent Hy Frontier, Singapore</em>
-</p>
+</p> -->
 
 <p align="center">
   <a href="https://jyyang26.github.io"><img src="https://img.shields.io/badge/Homepage-201d18?style=flat-square&logo=github&logoColor=white" alt="Homepage"></a>
