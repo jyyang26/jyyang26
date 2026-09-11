@@ -32,7 +32,7 @@ Before that, I was a Research Intern at **Shanghai AI Lab** and a Research Assis
 
 | Venue | Paper |
 | --- | --- |
-| **Tech Report** | [T1: Terminal Agent Reinforcement Learning for Long-horizon Tasks](https://jyyang26.github.io/t1/t1.pdf)|
+| **Tech Report** | [T1: Terminal Agent Reinforcement Learning for Long-horizon Tasks](https://arxiv.org/abs/2609.11042)|
 | **ACL 2026** | [ReasonAny: Incorporating Reasoning Capability to Any Model via Simple and Effective Model Merging](https://arxiv.org/abs/2601.05560) · [code](https://github.com/jyyang26/ReasonAny) |
 | **AAAI 2026** | [RCP-Merging: Merging Long Chain-of-Thought Models with Domain-Specific Models](https://arxiv.org/abs/2508.03140) · [code](https://github.com/ZeroNLP/RCP-Merging) |
 | **ACL 2025** | [PrivacyRestore: Privacy-Preserving Inference in LLMs via Privacy Removal and Restoration](https://arxiv.org/abs/2406.01394) · [code](https://github.com/ZeroNLP/PrivacyRestore) |
