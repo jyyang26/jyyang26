@@ -23,7 +23,7 @@ Before that, I was a Research Intern at **Shanghai AI Lab** and a Research Assis
 
 ### Research Interests
 
-- 🤖 **Agentic AI** — long-horizon, self-evolving agents and agent safety
+- 🤖 **Agentic AI** — long-horizon self-evolving terminal agents
 - 🧠 **Large Language Models** — reasoning, model merging, capability transfer
 - 🎯 **Reinforcement Learning** — training stability, asynchronous RL, reward design
 - 🔍 **Explainable AI** — internal mechanisms and attribution of model behavior
